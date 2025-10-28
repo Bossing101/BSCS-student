@@ -23,5 +23,9 @@ This repository is a collection of my projects, activities, and learning journey
 
 # 📚 Midterm Lab Tasks 
 ### Miterm Lab Task 1:[view file](MtermLabTask#1.pdf)
+### Miterm Lab Task 2:[view file](MtermLabTask#2.pdf)
+### Miterm Lab Task 3:[view file](MtermLabTask#3.docx)
+### Miterm Lab Task 4:[view file](MtermLabTask#4.pdf)
+### Miterm Lab Task 5:[view file](MtermLabTask#1.pdf)
 
 
