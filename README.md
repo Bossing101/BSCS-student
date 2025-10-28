@@ -2,17 +2,17 @@
 Hi! I'm jessie, a Bachelor of Science in Computer Science(BSCS) student.
 This repository is a collection of my projects, activities, and learning journey as i grow my skills in programing.
 
-## 📌 What’s Inside
+# 📌 What’s Inside
 - 🔤 *C Language* → my first programming exercises and problem-solving codes  
 - ☕ *Java* → object-oriented programming (OOP) activities and projects  
 - 🐍 *Python* → beginner scripts and experiments (still learning!)  
 
-## 🚀 Goals
+# 🚀 Goals
 - Strengthen my programming fundamentals  
 - Improve problem-solving and logical thinking  
 - Share my journey as I grow into a better developer  
 
-## 🎯 Progress Tracker by Category
+# 🎯 Progress Tracker by Category
 
 | 📂 Category       | ✅ Completed       | 🚧 In Progress     | 🎯 Goals                            |
 |------------------|-------------------|--------------------|-------------------------------------|
@@ -20,3 +20,8 @@ This repository is a collection of my projects, activities, and learning journey
 | 🧠 Activities     | 0 exercises       | 0 pending          | Complete this as soon as possible    |
 | 🐍 Python         | 0 scripts         | 0 learning modules | Learn        |
 | 🧱 OOP            | 0 mini-projects   | 0 major project    | Build a game using OOP principles  |
+
+# 📚 Midterm Lab Tasks 
+### Miterm Lab Task 1: [view file](MtermLabTask#1.pdf)
+
+
