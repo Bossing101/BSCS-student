@@ -22,6 +22,6 @@ This repository is a collection of my projects, activities, and learning journey
 | 🧱 OOP            | 0 mini-projects   | 0 major project    | Build a game using OOP principles  |
 
 # 📚 Midterm Lab Tasks 
-### Miterm Lab Task 1: [view file](MtermLabTask#1.pdf)
+### Miterm Lab Task 1:[view file](MtermLabTask#1.pdf)
 
 
